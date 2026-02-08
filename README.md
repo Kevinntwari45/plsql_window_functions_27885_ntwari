@@ -186,6 +186,8 @@ Revenue contribution is concentrated in a few categories.
 References
 https://www.w3schools.com/
 Oracle PL/SQL Documentation
+https://mode.com/sql-tutorial/sql-window-functions/
+https://www.postgresql.org/docs/15/tutorial-window.html
 
 Integrity Statement
 I hereby declare that this project is my original academic work. All SQL scripts, analysis, and documentation were developed and executed by me as part of the Database Development with PL/SQL course.
